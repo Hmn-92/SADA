@@ -6,7 +6,9 @@ Getting Started
 
 ### 1.Environment
 Python == 3.8
+
 PyTorch == 1.12.1
+
 faiss-gpu == 1.7.2
 
 ### 2. Prepare Data

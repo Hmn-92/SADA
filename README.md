@@ -16,8 +16,11 @@ Please download cloth-changing person re-identification datasets and place them 
 
 DATASET_ROOT
 	└─ LTCC-reID or Celeb-reID or PRCC or LaST
+
 		├── train
+
 		├── query
+
 		├── gallery
 
 - LTCC [1]: The LTCC dataset can be downloaded from this [website](https://naiq.github.io/LTCC_Perosn_ReID.html).

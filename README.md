@@ -1,5 +1,5 @@
-# Semantic-driven Augmentation with Dynamic Fine-Grained Optimization (SADF) framework for CC-ReID
-Pytorch code for paper "**Semantic-driven Augmentation with Dynamic Fine-Grained Optimization for Cloth-Changing Person Re-Identification**".
+# Dynamic Fine-Grained Optimization via Semantic-Driven Augmentation for Robust Cloth-Changing Person Re-Identification
+Pytorch code for paper "**Dynamic Fine-Grained Optimization via Semantic-Driven Augmentation for Robust Cloth-Changing Person Re-Identification**".
 (Submitted to The Visual Computer)
 
 Getting Started

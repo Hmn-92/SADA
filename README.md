@@ -104,11 +104,23 @@ The above three arguments are set corresponding to Training.
 
 **\*The results may exhibit fluctuations due to random splitting, and further improvement can be achieved by fine-tuning the hyperparameters.**
 
+## 6.Citation
+
+Please cite the following paper in your publications if it helps your research:
+
+```
+@article{hu2025dynamic,
+  title={Dynamic Fine-Grained Optimization via Semantic-Driven Augmentation for Robust Cloth-Changing Person Re-Identification},
+  author={Hu, Mengnan and Zhang, Wenjing and Wang, Rong},
+  journal={The Visual Compmuter},
+  publisher={Springer}
+}
+```
 
 
 Please cite the following paper in your publications if it is helpful:
 
-###  6. References.
+###  7. References.
 
 [1] X. Qian, W. Wang, L. Zhang, F. Zhu, Y. Fu, T. Xiang, Y.-G. Jiang, X. Xue. Long-Term Cloth-Changing Person Re-identification. In: Proceedings of the Asian Conference on Computer Vision (ACCV), 2020, https://doi.org/10.1007/978-3-030-69535-4_5.
 
